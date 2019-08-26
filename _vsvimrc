@@ -1,0 +1,19 @@
+"activate Syntax Highlting
+syntax on
+
+"set font to Inconsolata
+""set guifont=Inconsolata:h11
+
+"set colorscheme
+""colorscheme candycode
+
+"tabstop & shiftwidth(ident)
+set tabstop=2
+set shiftwidth=2
+
+"c-sytle indent
+set cindent
+
+
+
+source ~/.vim/_vimrc
